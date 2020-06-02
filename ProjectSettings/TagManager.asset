@@ -3,7 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ZSCALE
+  - XSCALE_L
+  - XSCALE_R
+  - UI
+  - WALL
+  - RIGHTWALL
+  - LEFTWALL
+  - FRONTWALL
+  - BACKWALL
+  - TOPWALL
+  - XSCROLLBAR
+  - ZSCROLLBAR
+  - YSCROLLBAR
+  - ANGLERIGHT
+  - ANGLELEFT
+  - SPACE
   layers:
   - Default
   - TransparentFX
@@ -14,12 +30,12 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - XSCALE
+  - ZSCALE
+  - MOVE
+  - PLANE
+  - TOP
+  - SPACE
   - 
   - 
   - 

@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/01.Scenes/TEST.unity
+  - enabled: 0
+    path: Assets/01.Scenes/TEST(PlaneMakeSpace).unity
     guid: 8d84580310604754198ae7a316838bfd
+  - enabled: 0
+    path: Assets/01.Scenes/TEST(LineMakeSpace).unity
+    guid: ca6f921e34205994c82e933e394b05b6
+  - enabled: 1
+    path: Assets/01.Scenes/TEST(CubeMakeSpace).unity
+    guid: d70534350b8893f479f4a86a86ce8d12
   m_configObjects: {}
